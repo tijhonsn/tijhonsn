@@ -1,8 +1,8 @@
 Hey there, I'm Etieno 💻📸
 
-💻 Software Engineering Graduate
-🦺 Safety Firewatch Professional
-⚽ Grasroot Footballer
+💻 Software Engineering Graduate<br/>
+🦺 Safety Firewatch Professional<br/>
+⚽ Grasroot Footballer<br/>
 📸 Photograher on [Instagram](https://instagram.com/ti_jhonsn)
 
 ## 🌐 Socials:
